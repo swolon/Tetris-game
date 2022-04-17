@@ -1,0 +1,37 @@
+﻿  block.cpp
+  game.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\game.cpp(288,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GameBoard.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Group.cpp
+  GroupL.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupL.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GroupLine.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupLine.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GroupRevL.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupRevL.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GroupRevZ.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupRevZ.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GroupT.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupT.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GroupWell.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  GroupZ.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GroupZ.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GUI.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  main.cpp
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\GameDefine.h(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  俄罗斯方块.vcxproj -> C:\Users\swolo\Desktop\俄罗斯方块VS\俄罗斯方块VS\Debug\俄罗斯方块.exe
